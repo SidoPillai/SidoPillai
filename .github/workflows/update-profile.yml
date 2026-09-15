@@ -24,7 +24,7 @@ jobs:
           package-manager-cache: false
 
       - name: Generate profile
-        run: npm run generate
+        run: node scripts/generate-profile.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
