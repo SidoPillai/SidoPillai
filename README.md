@@ -1,64 +1,38 @@
-# Hi, I'm Sid 👋
-
-### Principal Software Engineer · Mobile · Cross-Platform · Spatial Computing
-
-I build applications and developer experiences across native mobile,
-cross-platform systems, spatial computing, and emerging technologies.
-
-Currently exploring:
-
-- 📱 Android · Kotlin · Jetpack Compose
-- 🖥️ C# · .NET MAUI
-- 🥽 Swift · SwiftUI · visionOS
-- 🌐 TypeScript · Web
-- 🤖 AI-assisted application experiences
-- 🌎 Geospatial computing
-
-## 🚀 Current Focus
-
-Building and researching experiences across mobile, cross-platform,
-spatial computing, and AI-assisted software.
-
-## 📊 GitHub
-
-<!-- AUTO:STATS:START -->
-**28** public repositories · **57** stars received · **9** forks
-<!-- AUTO:STATS:END -->
-
-## 🧑‍💻 Languages
-
-<!-- AUTO:LANGUAGES:START -->
-**C#** — 78.5%  
-**QML** — 8.1%  
-**Kotlin** — 4.8%  
-**CSS** — 2.7%  
-**Java** — 2.5%  
-**C++** — 1.0%  
-**Python** — 0.9%  
-**Swift** — 0.6%
-<!-- AUTO:LANGUAGES:END -->
-
-## 🔨 Recently Active Projects
+# Recent Projects
 
 <!-- AUTO:PROJECTS:START -->
-### [XCodeShift](https://github.com/SidoPillai/XCodeShift) · Swift
-A utility tool to switch between different XCode on your machine
-
-### [SnackBarUsingUXDPopups](https://github.com/SidoPillai/SnackBarUsingUXDPopups) · C#
-Create a custom snackbar using UXDPopups
-
-### [ubiquitous-calcite](https://github.com/SidoPillai/ubiquitous-calcite) · C#
-Test Calcite in .NET Maui app
-
-### [FontSizeCalculator](https://github.com/SidoPillai/FontSizeCalculator) · C#
-
-### [qt-notification](https://github.com/SidoPillai/qt-notification) · C++ · ⭐ 52
-This is an implementation of Local Notifications for iOS and Android using Qt. 
-
-### [NetworkImage](https://github.com/SidoPillai/NetworkImage) · C#
-NetworkImage Component
+| Project | Description | Language |
+| :-- | :-- | :-- |
+| [XCodeShift](https://github.com/SidoPillai/XCodeShift) | A utility tool to switch between different XCode on your machine | Swift |
+| [SnackBarUsingUXDPopups](https://github.com/SidoPillai/SnackBarUsingUXDPopups) | Create a custom snackbar using UXDPopups | C# |
+| [ubiquitous-calcite](https://github.com/SidoPillai/ubiquitous-calcite) | Test Calcite in .NET Maui app | C# |
+| [FontSizeCalculator](https://github.com/SidoPillai/FontSizeCalculator) | null | C# |
+| [NetworkImage](https://github.com/SidoPillai/NetworkImage) | NetworkImage Component | C# |
 <!-- AUTO:PROJECTS:END -->
 
-## 🔗 Elsewhere
+# Most Popular
 
-🌐 [sidopillai.dev](https://www.sidopillai.dev)
+<!-- AUTO:POPULAR:START -->
+| Project | Stars | Forks | Language |
+| :-- | --: | --: | :-- |
+| [qt-notification](https://github.com/SidoPillai/qt-notification) | 52 | 9 | C++ |
+| [qt-activity-recognition](https://github.com/SidoPillai/qt-activity-recognition) | 2 | 0 | C++ |
+| [ComponentsX](https://github.com/SidoPillai/ComponentsX) | 1 | 0 | Kotlin |
+| [reference-book](https://github.com/SidoPillai/reference-book) | 1 | 0 | null |
+| [capstone-project](https://github.com/SidoPillai/capstone-project) | 1 | 0 | Java |
+<!-- AUTO:POPULAR:END -->
+
+# Languages
+
+<!-- AUTO:LANGUAGES:START -->
+| Language | Distribution | Share |
+| :-- | :-- | --: |
+| **C#** | `██████████████░░░░` | 78.5% |
+| **QML** | `█░░░░░░░░░░░░░░░░░` | 8.1% |
+| **Kotlin** | `█░░░░░░░░░░░░░░░░░` | 4.8% |
+| **CSS** | `░░░░░░░░░░░░░░░░░░` | 2.7% |
+| **Java** | `░░░░░░░░░░░░░░░░░░` | 2.5% |
+| **C++** | `░░░░░░░░░░░░░░░░░░` | 1.0% |
+| **Python** | `░░░░░░░░░░░░░░░░░░` | 0.9% |
+| **Swift** | `░░░░░░░░░░░░░░░░░░` | 0.6% |
+<!-- AUTO:LANGUAGES:END -->
