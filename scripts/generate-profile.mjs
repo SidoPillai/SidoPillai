@@ -28,6 +28,10 @@ function replaceSection(readme, name, content) {
   const start = `<!-- AUTO:${name}:START -->`;
   const end = `<!-- AUTO:${name}:END -->`;
 
+  if (!readme.includes(start) || !readme.includes(end)) {
+    throw new Error(`README is missing ${name} markers: ${start} / ${end}`);
+  }
+
   const regex = new RegExp(`${start}[\\s\\S]*?${end}`, "m");
 
   return readme.replace(regex, `${start}\n${content}\n${end}`);
