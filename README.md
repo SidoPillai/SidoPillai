@@ -3,11 +3,11 @@
 <!-- AUTO:PROJECTS:START -->
 | Project | Description | Language |
 | :-- | :-- | :-- |
+| [SwiftUI](https://github.com/SidoPillai/SwiftUI) | SwiftUI concepts at a glance | Swift |
 | [XCodeShift](https://github.com/SidoPillai/XCodeShift) | A utility tool to switch between different XCode on your machine | Swift |
 | [SnackBarUsingUXDPopups](https://github.com/SidoPillai/SnackBarUsingUXDPopups) | Create a custom snackbar using UXDPopups | C# |
 | [ubiquitous-calcite](https://github.com/SidoPillai/ubiquitous-calcite) | Test Calcite in .NET Maui app | C# |
 | [FontSizeCalculator](https://github.com/SidoPillai/FontSizeCalculator) | null | C# |
-| [NetworkImage](https://github.com/SidoPillai/NetworkImage) | NetworkImage Component | C# |
 <!-- AUTO:PROJECTS:END -->
 
 # Most Popular
@@ -27,12 +27,12 @@
 <!-- AUTO:LANGUAGES:START -->
 | Language | Distribution | Share |
 | :-- | :-- | --: |
-| **C#** | `██████████████░░░░` | 78.5% |
-| **QML** | `█░░░░░░░░░░░░░░░░░` | 8.1% |
+| **C#** | `██████████████░░░░` | 78.3% |
+| **QML** | `█░░░░░░░░░░░░░░░░░` | 8.0% |
 | **Kotlin** | `█░░░░░░░░░░░░░░░░░` | 4.8% |
 | **CSS** | `░░░░░░░░░░░░░░░░░░` | 2.7% |
 | **Java** | `░░░░░░░░░░░░░░░░░░` | 2.5% |
 | **C++** | `░░░░░░░░░░░░░░░░░░` | 1.0% |
 | **Python** | `░░░░░░░░░░░░░░░░░░` | 0.9% |
-| **Swift** | `░░░░░░░░░░░░░░░░░░` | 0.6% |
+| **Swift** | `░░░░░░░░░░░░░░░░░░` | 0.8% |
 <!-- AUTO:LANGUAGES:END -->
