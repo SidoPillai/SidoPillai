@@ -3,11 +3,11 @@
 <!-- AUTO:PROJECTS:START -->
 | Project | Description | Language |
 | :-- | :-- | :-- |
+| [SpatialKiosk](https://github.com/SidoPillai/SpatialKiosk) | null | TypeScript |
 | [HoloPoint](https://github.com/SidoPillai/HoloPoint) | On-device point cloud capture for Apple Vision Pro (ARKit scene reconstruction + Metal), exporting PLY for SpatialReference | Swift |
 | [SplatGen](https://github.com/SidoPillai/SplatGen) | Turn a single photo into an explorable 3D Gaussian splat scene, entirely on device (macOS, SwiftUI + Metal) | Swift |
 | [AgoApiChecker](https://github.com/SidoPillai/AgoApiChecker) | A utility to test arcgis rest api | Swift |
 | [SwiftUI](https://github.com/SidoPillai/SwiftUI) | SwiftUI concepts at a glance | Swift |
-| [XCodeShift](https://github.com/SidoPillai/XCodeShift) | A utility tool to switch between different XCode on your machine | Swift |
 <!-- AUTO:PROJECTS:END -->
 
 # Most Popular
@@ -31,7 +31,7 @@
 | **QML** | `█░░░░░░░░░░░░░░░░░` | 7.5% |
 | **Swift** | `█░░░░░░░░░░░░░░░░░` | 6.7% |
 | **Kotlin** | `█░░░░░░░░░░░░░░░░░` | 4.5% |
-| **CSS** | `░░░░░░░░░░░░░░░░░░` | 2.5% |
+| **CSS** | `░░░░░░░░░░░░░░░░░░` | 2.6% |
 | **Java** | `░░░░░░░░░░░░░░░░░░` | 2.3% |
 | **C++** | `░░░░░░░░░░░░░░░░░░` | 0.9% |
 | **Python** | `░░░░░░░░░░░░░░░░░░` | 0.8% |
